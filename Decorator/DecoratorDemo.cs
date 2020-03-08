@@ -20,5 +20,6 @@ namespace Decorator
 
 			polisherAndvacuumCleanerAndWasher.Clean(car);
 		}
+		
 	}
 }
